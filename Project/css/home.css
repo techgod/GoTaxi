@@ -1,0 +1,22 @@
+#promovid{
+    background: rgb(179, 177, 177);
+    padding: 1px 10px 10px 10px;
+    display: inline-block;
+    margin: 15px 10px;
+    border-radius: 25px;
+    box-shadow: 8px 8px;
+}
+
+#content-block img{   
+    width: 100%;
+    display: block;
+    margin: 10px auto 2px auto;
+    border-radius: 25px
+}
+
+#promovid video{   
+    display: inline-block;
+    margin: 10px auto 2px auto;
+    border-radius: 25px;
+    width: 33%;
+}

@@ -1,0 +1,30 @@
+form label{
+    font-size: 20px;
+}
+
+form input{
+    border-width: 2px;
+    border-color: black;
+    height: 30px;
+    width: 20%;
+}
+
+form input[type=submit], input[type=reset]{
+    width: 10%;
+    height: 40px;
+}
+
+form input[type=reset]:hover{
+    background-color: darkgrey;
+}
+
+form input[type=submit]:hover{
+    background-color: darkgrey;
+}
+
+form input[type=submit]:active{
+    background-color: rgb(85, 85, 85);
+}
+form input[type=reset]:active{
+    background-color: rgb(85, 85, 85);
+}

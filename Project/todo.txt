@@ -1,0 +1,27 @@
+do offline pages
+do maps
+login page issue
+change website 
+
+
+
+login page.
+lock the booking part unl=til logged in. redirect person to login page if they click on book redirect
+store data in a database for contact us page 
+
+store password and username for login page
+
+
+canvas and 
+dark theme
+
+make project report
+
+YASH
+bookride page with maps and everything
+ui imporovemnts
+canvas tag
+
+
+SARVESH
+

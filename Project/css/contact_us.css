@@ -1,0 +1,44 @@
+
+img{
+    width: 100px;
+    margin: 5px 50px;
+}
+
+form label{
+    font-size: 30px;
+}
+
+form input, select, textarea, div.mode button{
+    border-width: 2px;
+    border-color: black;
+    height: 30px;
+    width: 50%;
+}
+
+form textarea{
+    height: 80px;
+    width: 60%;
+}
+
+form input[type=submit], input[type=reset], div.mode button{
+    width: 15%;
+    height: 50px;
+}
+
+form input[type=submit]:hover, div.mode button:hover{
+    background-color: darkgrey;
+}
+
+form input[type=submit]:active, form input[type=reset]:active, div.mode button:active{
+    background-color: rgb(85, 85, 85);
+}
+
+#error{
+    color: red;
+}
+
+button{
+    width: 15%;
+    height: 50px;
+    background-color: rgb(252, 234, 174);
+}
